@@ -9,8 +9,12 @@
 6. Deploy app using Firebase
 
 
-#### Components
+#### Components :
 * Sidebar
   * SidebarChat
 * Chat 
 
+#### CSS :
+1. Sidebar.css
+2. SidebarChat.css
+3. Chat.css
