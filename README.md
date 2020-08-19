@@ -10,4 +10,7 @@
 
 
 #### Components
-1. 
+* Sidebar
+  * SidebarChat
+* Chat 
+
