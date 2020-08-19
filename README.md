@@ -1,6 +1,6 @@
 ### Whats App React app
 
-#### Used Technoliges : 
+#### Used Technologies : 
 1. React JS
 2. Firebase firestone Realtime database
 3. Material UI
