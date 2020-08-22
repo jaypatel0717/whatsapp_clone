@@ -23,3 +23,4 @@
 2. Sidebar.css
 3. SidebarChat.css
 4. Chat.css
+5. App.css
