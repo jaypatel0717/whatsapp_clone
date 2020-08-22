@@ -14,7 +14,8 @@
 * Sidebar
   * SidebarChat
 * Chat 
-
+* reducer
+* StateProvider
 
 
 
