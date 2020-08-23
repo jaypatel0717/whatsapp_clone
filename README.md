@@ -2,9 +2,9 @@
 
 #### Used Technologies : 
 1. React JS
-2. Firebase firestone Realtime database
+2. Firebase firestone realtime database
 3. Material UI
-4. React context API
+4. React Context API
 5. Google Authentication
 6. Deploy app using Firebase
 
