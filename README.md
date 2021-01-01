@@ -2,7 +2,7 @@
 
 <br/>
 
-![Alt text](https://github.com/jaypatel0717/twitter_clone/blob/master/public/home.png)
+![Alt text](https://github.com/jaypatel0717/whatsapp_clone/blob/master/public/home.png)
 
 -> This is Twitter clone app using react, firebase realtime database, material UI icon.<br/>
 -> You twit the massage and upload images on this twitter clone<br/>
