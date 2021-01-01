@@ -18,7 +18,22 @@
 5. Google Authentication
 6. Deploy app using Firebase
 
-#### Components :
+#### To start this application :
+
+```
+Go to -> cd whatsapp_clone
+
+npm install
+npm start
+
+npm install react-route-dom
+npm install react-flip-move
+npm install @material-ui/core
+npm install @material-ui/icons
+npm install -g firebase-tools
+```
+
+#### Structure of Componenets :
 
 - Login
 - Sidebar
@@ -34,3 +49,12 @@
 3. SidebarChat.css
 4. Chat.css
 5. App.css
+
+#### Create new React application :
+
+```
+npx create-react-app my-app
+cd my-app
+npm start
+
+```
