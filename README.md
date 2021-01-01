@@ -4,8 +4,8 @@
 
 ![Alt text](https://github.com/jaypatel0717/whatsapp_clone/blob/master/public/home.png)
 
--> This is Twitter clone app using react, firebase realtime database, material UI icon.<br/>
--> You twit the massage and upload images on this twitter clone<br/>
+-> This is Whata app clone app using react, gmail authentication using firebase and firebase realtime database.<br/>
+-> You can log with you gmail account and create new chat on top left conrner of web page and you can send the message to that group.<br/>
 -> Open [Whats app clone](https://whatsappclone-f3409.web.app/) to view it in the browser.
 <br/>
 
